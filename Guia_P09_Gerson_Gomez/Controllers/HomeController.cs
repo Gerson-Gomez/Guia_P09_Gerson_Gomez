@@ -4,7 +4,7 @@ using System.Diagnostics;
 
 namespace Guia_P09_Gerson_Gomez.Controllers
 {
-    public class HomeController : Controller
+    public class HomeController : Controller 
     {
         private readonly ILogger<HomeController> _logger;
 
